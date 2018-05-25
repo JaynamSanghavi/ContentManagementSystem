@@ -1,2 +1,2 @@
 # ContentManagementSystem
-ContentManagementSystem using procedure oriented programming
+ContentManagementSystem using procedure oriented programming(POP)
